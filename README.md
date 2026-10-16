@@ -1,12 +1,17 @@
 # Ziliang Chen
 
+
 **Backend Systems & AI Agents · M.Eng. in Computer Science @ Virginia Tech · May 2027**
+
 
 I'm seeking **2027 New Grad Software Engineer and AI Engineer roles** across the United States, with **onsite or hybrid** work. I build data-backed applications, reliable backend services, and AI agents with measurable evaluations.
 
-[LinkedIn](https://www.linkedin.com/in/ziliangchen/)
+
+[LinkedIn](https://www.linkedin.com/in/ziliangchen/) · [dgaz5522@gmail.com](mailto:dgaz5522@gmail.com)
+
 
 ## Selected projects
+
 
 | Project | What it does | Links |
 | --- | --- | --- |
@@ -14,6 +19,9 @@ I'm seeking **2027 New Grad Software Engineer and AI Engineer roles** across the
 | **Market Data Pipeline** | Ingests Bitcoin market data through Java/Spring Boot and Kafka, with PostgreSQL rollups, Redis caching, reconciliation, and blue-green deployment to AWS EC2. | [Code & setup](https://github.com/chenziliang1/market-data-pipeline) |
 | **GDELT Event Intelligence** | Explores 17.5M GDELT events through a dashboard and analyst agent; serves LightGBM forecasts selected through held-out evaluation against a PyTorch Transformer. | [Code & setup](https://github.com/chenziliang1/gdelt-event-intelligence) |
 
+
 ## Technologies
 
+
 Python · Java · SQL · Spring Boot · FastAPI · AWS
+
